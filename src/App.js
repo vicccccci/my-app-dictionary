@@ -9,7 +9,7 @@ function App() {
       <footer>
         <h6 className="text-center">
           This project was coded by{" "}
-          <a href="https://github.com/vicccccci/dictionary-react-3">
+          <a href="https://github.com/vicccccci/my-app-dictionary/">
             Victoria
           </a>
         </h6>
